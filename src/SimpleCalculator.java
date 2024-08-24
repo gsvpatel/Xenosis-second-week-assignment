@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class SimpleCalculator {
@@ -46,3 +47,7 @@ public class SimpleCalculator {
 
 
 
+=======
+public class SimpleCalculator {
+}
+>>>>>>> origin/master
