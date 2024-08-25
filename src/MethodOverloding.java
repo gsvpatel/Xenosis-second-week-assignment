@@ -11,7 +11,7 @@ public class MethodOverloding {
 
     public static void main(String[] args) {
     MethodOverloding m1 = new MethodOverloding();
-    m1.test("kashi",22,"");
+    m1.test("kashi",22,"Bangaluru");
     }
 
     public void test(String name, int age, String city) {
